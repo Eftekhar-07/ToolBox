@@ -1,0 +1,6 @@
+{
+  "name": "ToolBox",
+  "description": "All-in-one offline utility, productivity, converter, calculator, habit tracker, and routine maker app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
